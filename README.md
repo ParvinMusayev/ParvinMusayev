@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [in/parvin-musayev](in/parvin-musayev)
 
-- 💬 Ask me about **I have over 1+ years of experience in the field of Frontend development, and I strive to enhance my expertise through self-initiated projects. My sense of responsibility and quick adaptability to work contribute to achieving better results. I combine my passion for innovative design with my expertise in coding to create engaging and seamless user experiences that bring digital products to life.**
+- 💬 Ask me about **I have over 1+ years of experience in the field of Front-end development, and I strive to enhance my expertise through self-initiated projects. My sense of responsibility and quick adaptability to work contribute to achieving better results. I combine my passion for innovative design with my expertise in coding to create engaging and seamless user experiences that bring digital products to life.**
 
 - 📫 How to reach me **devsparvin@gmail.com**
 
