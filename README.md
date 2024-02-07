@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parvin Musayev</h1>
 <h3 align="center">MERN Stack Developer from Azerbaijan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parvinmusayev&label=Profile%20views&color=0e75b6&style=flat" alt="parvinmusayev" /> </p>
+<h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me **devsparvin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
