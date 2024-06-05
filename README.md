@@ -6,9 +6,4 @@ Skilled and detail-oriented Software Developer with expertise in designing, deve
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParvinMusayev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParvinMusayev&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![](https://github-contributor-stats.vercel.app/api?username=ParvinMusayev&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ParvinMusayev&icon=0&color=9)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
